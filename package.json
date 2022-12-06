@@ -1,6 +1,6 @@
 {
-	"author": "Ariansyah Nurhadi",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Ariansyah Nurhadi",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
